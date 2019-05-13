@@ -1,2 +1,3 @@
 node_modules/**
 vuedemo.iml
+.idea/**

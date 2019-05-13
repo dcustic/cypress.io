@@ -1,0 +1,5 @@
+1. initiale seite wird geladen. Alex
+2. Alle links funktionieren. Christian
+3. Form submit verschickt alle felder. Lenny
+4. Essential links sind da. Dino
+5. auf der aboutus seite wird das bild geladen. Ajla
